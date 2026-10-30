@@ -1,0 +1,63 @@
+New Add-On
+- Compiler Model that reads Text input and perform task as per the language, tokens
+- model to create parse inputs and order them to execution
+- print syntax error or successful operation execution with counts
+- read and stores in text file
+- Complier Design
+
+-------------------------
+
+** Multithreaded Programming and Performance
+** GPU Program Project
+
+Pointer
+Shared Pointer
+Smart Pointer
+Garbage Collection
+
+Exception Handling
+#include <stdexcept>
+
+Common Algorthims and Maths Libraries
+#include <algorithm>
+#include <cmath>
+#include <map>
+#include <string>
+#include <vector>
+#include <stack>
+
+Input Output 
+#include <iostream>
+#include <sstream>
+
+Dynamic Allocation
+#include <memory>
+
+Big Integer
+#include <bits/stdc++.h>
+#include <boost/multiprecision/cpp_int.hpp>
+#include <boost/integer/common_factor.hpp>
+
+Prime Factorization Algorthim
+
+Object Oriented Programming
+
+Multinomial Theorem - Graph DFS
+
+Numerical Methods
+- Root Finding
+
+Polynomial Roots
+- Cardano Cubic
+- Ferrari Quartic
+
+Linear Algebra
+- Gauss Elimination (Inverse of Matrix)
+- Determinant of Matrix
+- Inverse using Adjoint Methods
+
+File System
+- Read input from text File
+- output in text file
+
+Test Cases
